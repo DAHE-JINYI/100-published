@@ -3,8 +3,8 @@ public class piblished{
         /**
          * 100个不美观就10个
          */
-        for( int i = 1; i < 12; i++ ){
-           for( int j = 1; j < 12; j++ ){
+        for( int i = 1; i < 10; i++ ){
+           for( int j = 1; j < 10; j++ ){
             if( i >= j ){
                 //这里要注意“ print ” 是不 print “ ln “ 复数
                 System.out.print(i+"*"+j+"="+i*j+" ");
