@@ -1,5 +1,8 @@
+import java.io.IOError;
+import java.io.IOException;
+
 public class piblished{
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException{
         /**
          * 100个不美观就10个
          */
